@@ -340,6 +340,7 @@
       "bread": "2019-01-21 20:58:05 +0300",
       "rotten_flesh": "2019-01-21 14:33:39 +0300",
       "beetroot": "2019-01-21 15:40:59 +0300",
+      "cooked_chicken": "2019-01-24 18:07:16 +0300",
       "enchanted_golden_apple": "2019-01-21 14:32:04 +0300",
       "mushroom_stew": "2019-01-21 15:36:01 +0300",
       "carrot": "2019-01-21 14:32:04 +0300"
@@ -801,6 +802,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-01-22 16:19:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-01-24 18:17:34 +0300"
     },
     "done": true
   },
@@ -1364,6 +1371,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2019-01-21 14:52:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-01-24 17:59:02 +0300"
     },
     "done": true
   },
