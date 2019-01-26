@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2019-01-26 21:27:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-01-21 16:35:38 +0300"
@@ -783,7 +789,8 @@
       "zombie": "2019-01-21 15:32:14 +0300",
       "witch": "2019-01-23 02:06:23 +0300",
       "spider": "2019-01-21 15:18:15 +0300",
-      "creeper": "2019-01-21 15:15:42 +0300"
+      "creeper": "2019-01-21 15:15:42 +0300",
+      "enderman": "2019-01-26 21:21:49 +0300"
     },
     "done": false
   },

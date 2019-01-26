@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-01-26 21:07:28 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-01-21 14:30:49 +0300"
@@ -110,6 +116,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2019-01-21 17:48:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-01-26 21:07:28 +0300"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-01-21 14:30:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-01-26 20:33:23 +0300"
     },
     "done": true
   },
@@ -858,6 +876,7 @@
       "skeleton": "2019-01-21 15:27:06 +0300",
       "husk": "2019-01-21 21:02:31 +0300",
       "zombie": "2019-01-21 14:31:26 +0300",
+      "witch": "2019-01-26 20:20:46 +0300",
       "spider": "2019-01-21 15:50:21 +0300",
       "creeper": "2019-01-21 15:49:17 +0300"
     },
@@ -884,6 +903,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-21 14:39:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-01-26 20:37:37 +0300"
     },
     "done": true
   },
@@ -962,6 +987,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2019-01-21 14:35:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-01-26 21:19:20 +0300"
     },
     "done": true
   },
@@ -1274,6 +1305,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2019-01-24 18:12:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2019-01-26 21:02:18 +0300"
     },
     "done": true
   },
@@ -1661,6 +1698,12 @@
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2019-01-21 15:08:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2019-01-26 21:02:18 +0300"
     },
     "done": true
   },
